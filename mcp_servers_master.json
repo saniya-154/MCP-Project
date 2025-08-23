@@ -1,0 +1,1610 @@
+[
+  {
+    "server_name":"modelcontextprotocol\/servers",
+    "description":"Model Context Protocol Servers",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/modelcontextprotocol\/servers"
+  },
+  {
+    "server_name":"GitHub's official MCP Server",
+    "description":"GitHub's official MCP Server",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/github\/github-mcp-server"
+  },
+  {
+    "server_name":"punkpeye\/awesome-mcp-servers",
+    "description":"A collection of MCP servers.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/punkpeye\/awesome-mcp-servers"
+  },
+  {
+    "server_name":"A practical guide on how to use the GitHub MCP server",
+    "description":"A practical guide on how to use the GitHub MCP server \u00b7 Step 1: Install the remote MCP server \u00b7 Step 2: Configure access controls \u00b7 Step 3: Try ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.blog\/ai-and-ml\/generative-ai\/a-practical-guide-on-how-to-use-the-github-mcp-server\/"
+  },
+  {
+    "server_name":"Using the GitHub MCP Server",
+    "description":"Learn how to use the GitHub Model Context Protocol (MCP) server to extend Copilot Chat.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/docs.github.com\/en\/copilot\/how-tos\/provide-context\/use-mcp\/use-the-github-mcp-server"
+  },
+  {
+    "server_name":"Use MCP servers in VS Code",
+    "description":"Learn how to configure and use Model Context Protocol (MCP) servers with GitHub Copilot in Visual Studio Code.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/code.visualstudio.com\/docs\/copilot\/chat\/mcp-servers"
+  },
+  {
+    "server_name":"Example Servers",
+    "description":"This page showcases various Model Context Protocol (MCP) servers that demonstrate the protocol's capabilities and versatility.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/modelcontextprotocol.io\/examples"
+  },
+  {
+    "server_name":"wong2\/awesome-mcp-servers",
+    "description":"A curated list of Model Context Protocol (MCP) servers",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/wong2\/awesome-mcp-servers"
+  },
+  {
+    "server_name":"GitHub - A collection of MCP servers",
+    "description":"I created a MCP server to help installing MCP from prompt. MCP Easy Intaller. Github search for MCP servers, Install from Github and NPMJS url.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/ClaudeAI\/comments\/1h36xzl\/github_awesomemcpservers_a_collection_of_mcp\/"
+  },
+  {
+    "server_name":"Remote GitHub MCP Server is now in public preview",
+    "description":"The GitHub MCP Server allows AI tools like GitHub Copilot in VS Code and Visual Studio, Claude Desktop, and others to seamlessly access live GitHub context and ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.blog\/changelog\/2025-06-12-remote-github-mcp-server-is-now-available-in-public-preview\/"
+  },
+  {
+    "server_name":"NEW GitHub MCP Server Automates My Developer Workflows",
+    "description":"Let's talk a little bit about automating our tasks as developers by using the new github mcp server.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=JFLjWfnhNGs&pp=0gcJCfwAo7VqN5tD"
+  },
+  {
+    "server_name":"appcypher\/awesome-mcp-servers",
+    "description":"Awesome MCP Servers - A curated list of Model Context Protocol servers",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/appcypher\/awesome-mcp-servers"
+  },
+  {
+    "server_name":"GitMCP",
+    "description":"GitMCP creates a dedicated Model Context Protocol (MCP) server for any GitHub project, enabling AI assistants to understand your code in context.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/gitmcp.io\/"
+  },
+  {
+    "server_name":"Use MCP servers - Visual Studio (Windows)",
+    "description":"GitHub's official MCP server offers tools to list repositories, create pull requests, or manage issues. MCP servers can run locally on your ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/learn.microsoft.com\/en-us\/visualstudio\/ide\/mcp-servers?view=vs-2022"
+  },
+  {
+    "server_name":"Model Context Protocol",
+    "description":"The Model Context Protocol (MCP) is an open protocol that enables seamless integration between LLM applications and external data sources and tools.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/modelcontextprotocol"
+  },
+  {
+    "server_name":"[GitHub] Awesome MCP Servers",
+    "description":"I'm putting together a curated list of Model Context Protocol (MCP) servers that you might find useful if you're working with Claude Desktop or interested in ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/Anthropic\/comments\/1h2buuv\/github_awesome_mcp_servers_a_collection_of_model\/"
+  },
+  {
+    "server_name":"Awesome MCP Servers",
+    "description":"An MCP server for interacting with various services like Slack, Harvest, and GitHub to manage activities and data. View Details. Actual Budget. Integrate Actual ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/mcpservers.org\/"
+  },
+  {
+    "server_name":"GitHub MCP Server",
+    "description":"Provides tools for interacting with GitHub's API through the MCP protocol, allowing users to create repositories, push content, and retrieve user information.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/glama.ai\/mcp\/servers\/@modelcontextprotocol\/github"
+  },
+  {
+    "server_name":"Must-Have MCP Servers for Coding and Beyond",
+    "description":"Roo and Cline can 100% use MCP servers. Cline is easier to setup as they have a marketplace built in. I've found the easiest way to get them ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/ClaudeAI\/comments\/1k0f3vs\/musthave_mcp_servers_for_coding_and_beyond\/"
+  },
+  {
+    "server_name":"MCP Market",
+    "description":"Official MCP Servers \u00b7 Bright Data \u00b7 Firecrawl \u00b7 ElevenLabs \u00b7 Magic \u00b7 Browserbase \u00b7 Exa. 2,130. Enables AI assistants like Claude to perform web searches using ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/mcpmarket.com\/"
+  },
+  {
+    "server_name":"A Comprehensive Guide to the Best MCP Servers for 2025",
+    "description":"Detailed Comparison of Top MCP Servers \u00b7 1. Blender-MCP \u00b7 2. GitHub-MCP \u00b7 3. File System-MCP \u00b7 4. Docker-MCP \u00b7 5. WhatsApp-MCP \u00b7 6. Puppeteer- ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/medium.com\/@tam.tamanna18\/a-comprehensive-guide-to-the-best-mcp-servers-for-2025-5ee541b2b00f"
+  },
+  {
+    "server_name":"I tried 100+ MCP Servers and Here's my Top 10",
+    "description":"Try apps like MCP Now, which helps manage all servers from one place, making it easy to hot-swap between configs and test flows quickly without digging into ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/therealmrmumba\/top-10-cursor-mcp-servers-in-2025-1nm7\/comments"
+  },
+  {
+    "server_name":"Top 10 MCP Servers & Clients for AI Workflow Automation ...",
+    "description":"Top 10 MCP Servers \u00b7 1. Filesystem \u00b7 2. Playwright \u00b7 3. Run Python \u00b7 4. GitHub \u00b7 5. WhatsApp \u00b7 6. Notion \u00b7 7. Tavily \u00b7 8. mem0. The ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.datacamp.com\/blog\/top-mcp-servers-and-clients"
+  },
+  {
+    "server_name":"10 Microsoft MCP Servers to Accelerate Your Development ...",
+    "description":"1. Microsoft Learn Docs MCP Server \u00b7 2. \u2601\ufe0f Azure MCP Server \u00b7 3. GitHub MCP Server \u00b7 4. Azure DevOps MCP Server \u00b7 5. MarkItDown MCP Server \u00b7 6 ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/devblogs.microsoft.com\/blog\/10-microsoft-mcp-servers-to-accelerate-your-development-workflow"
+  },
+  {
+    "server_name":"The 3 MUST Have MCP Servers for Any AI Coding (and How ...",
+    "description":"My workflow for coding anything with AI revolves around three core MCP servers so I want to cover those with you right now.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=MBaTuJfICP4"
+  },
+  {
+    "server_name":"Awesome MCP servers",
+    "description":"Deep dive into the MCP server directory \u00b7 1. K2view MCP server \u00b7 2. Vectara MCP server \u00b7 3. Zapier MCP server \u00b7 4. Notion MCP server \u00b7 5.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.k2view.com\/blog\/awesome-mcp-servers"
+  },
+  {
+    "server_name":"Top 10 MCP Servers You Can Try in 2025",
+    "description":"1. File System MCP Server: Your Local File Wizard \u00b7 2. GitHub MCP Server: Code Management Made Easy \u00b7 3. Slack MCP Server: Chat Automation Hero \u00b7 4. Google Maps ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/apidog.com\/blog\/top-10-mcp-servers\/"
+  },
+  {
+    "server_name":"Top 10 awesome MCP servers that can make your life easier",
+    "description":"1. Notion for automated note-taking \u00b7 2. Figma: From Design to Code \u00b7 3. Supabase for managing the database from an IDE \u00b7 4. Firecrawl MCP for ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/composio.dev\/blog\/10-awesome-mcp-servers-to-make-your-life-easier"
+  },
+  {
+    "server_name":"10 Awesome MCP Servers",
+    "description":"1. Filesystem MCP Server \u00b7 2. Google Drive MCP Server \u00b7 3. Slack MCP Server \u00b7 4. Memory MCP Server \u00b7 5. Spotify MCP Server \u00b7 6. Notion MCP Server \u00b7 7.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.kdnuggets.com\/10-awesome-mcp-servers"
+  },
+  {
+    "server_name":"My Top 13 MCP Servers (That I Actually Use)",
+    "description":"It's May 2025, and these are the 13 MCP servers I actually use for personal productivity, development, and project management.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=9BVSz5GayWc"
+  },
+  {
+    "server_name":"The top 15 MCP servers for your AI projects",
+    "description":"The top 15 MCP servers for your AI projects \u00b7 1. GitHub MCP server: Advanced code automation and analysis \u00b7 2. MongoDB MCP server: Natural ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/blog.logrocket.com\/top-15-mcp-servers-ai-projects\/"
+  },
+  {
+    "server_name":"The Top 20 MCP Servers for Developers (According to ...",
+    "description":"File & Coding Tools \u00b7 1. Sequential Thinking MCP \u00b7 2. GitHub MCP \u00b7 3. Serena MCP \u00b7 4. DesktopCommanderMCP \u00b7 5. File System MCP \u00b7 6. Docker MCP.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/medium.com\/@elisowski\/the-top-20-mcp-servers-for-developers-according-to-reddits-users-bab333886336"
+  },
+  {
+    "server_name":"An MCP server capable of interacting with the Box API",
+    "description":"An MCP server capable of interacting with the Box API",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/box-community\/mcp-server-box"
+  },
+  {
+    "server_name":"awslabs\/mcp",
+    "description":"AWS MCP Servers \u2014 helping you get the most out of AWS, wherever you use MCP.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/awslabs\/mcp"
+  },
+  {
+    "server_name":"docker\/mcp-servers",
+    "description":"Model Context Protocol Servers",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/docker\/mcp-servers"
+  },
+  {
+    "server_name":"quarkiverse\/quarkus-mcp-servers",
+    "description":"Model Context Protocol Servers in Quarkus",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/quarkiverse\/quarkus-mcp-servers"
+  },
+  {
+    "server_name":"Context7 MCP Server -- Up-to-date code documentation for ...",
+    "description":"Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/upstash\/context7"
+  },
+  {
+    "server_name":"mcp-use is the easiest way to interact with mcp servers with ...",
+    "description":"mcp-use is the easiest way to interact with mcp servers with custom agents",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/mcp-use\/mcp-use"
+  },
+  {
+    "server_name":"anaisbetts\/mcp-installer",
+    "description":"An MCP server that installs other MCP servers for you",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/anaisbetts\/mcp-installer"
+  },
+  {
+    "server_name":"PipedreamHQ\/awesome-mcp-servers",
+    "description":"A collection of MCP servers",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/PipedreamHQ\/awesome-mcp-servers"
+  },
+  {
+    "server_name":"Extending GitHub Copilot coding agent with the Model ...",
+    "description":"You configure MCP servers using a special JSON format. The JSON must contain an mcpServers object, where the key is the name of the MCP server (for example, ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/docs.github.com\/copilot\/customizing-copilot\/using-model-context-protocol\/extending-copilot-coding-agent-with-mcp"
+  },
+  {
+    "server_name":"Catalog of official Microsoft MCP (Model Context Protocol) ...",
+    "description":"Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/microsoft\/mcp"
+  },
+  {
+    "server_name":"jlowin\/fastmcp",
+    "description":"\ud83d\ude80 The fast, Pythonic way to build MCP servers and clients",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/jlowin\/fastmcp"
+  },
+  {
+    "server_name":"microsoft\/playwright-mcp",
+    "description":"Playwright MCP server",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/microsoft\/playwright-mcp"
+  },
+  {
+    "server_name":"modelcontextprotocol\/servers-archived",
+    "description":"Reference MCP servers that are no longer maintained",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/modelcontextprotocol\/servers-archived"
+  },
+  {
+    "server_name":"30+ MCP Ideas with Complete Source Code",
+    "description":"We will learn about MCP and explore 30+ MCP servers with complete source code. You will find a demo in almost every example and some useful projects at the end.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/copilotkit\/30-mcp-ideas-with-complete-source-code-d8e"
+  },
+  {
+    "server_name":"9 Hands-On MCP Projects to Strengthen Your AI Portfolio",
+    "description":"9 practical MCP project ideas designed to help AI engineers build real-world, tool-using agents with Claude, LangChain, and open protocols.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.projectpro.io\/article\/mcp-projects\/1142"
+  },
+  {
+    "server_name":"Coolest things built with MCP?",
+    "description":"What are some of the coolest AI agents you've seen built using MCP servers? I've been using some MCP servers locally mainly for software development.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/mcp\/comments\/1k7dwul\/coolest_things_built_with_mcp\/"
+  },
+  {
+    "server_name":"Top 8 Open Source MCP Projects with the Most GitHub Stars",
+    "description":"Top 8 Open Source MCP Projects with the Most GitHub Stars \u00b7 \u21161: n8n \u00b7 \u21162: dify \u00b7 \u21163: Open WebUI \u00b7 \u21164: Netdata \u00b7 \u21165: Lobe Chat \u00b7 \u21166: Glama \u00b7 \u21167: RAGFlow.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/medium.com\/@nocobase\/top-8-open-source-mcp-projects-with-the-most-github-stars-f2e2a603b41d"
+  },
+  {
+    "server_name":"Model Context Protocol (MCP)",
+    "description":"In this blog, I'll guide you through building an MCP-powered PR review server that integrates with Claude Desktop.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.datacamp.com\/tutorial\/mcp-model-context-protocol"
+  },
+  {
+    "server_name":"Build an MCP Server",
+    "description":"In this tutorial, we'll build a simple MCP weather server and connect it to a host, Claude for Desktop. We'll start with a basic setup, and then progress to ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/modelcontextprotocol.io\/quickstart\/server"
+  },
+  {
+    "server_name":"Guide to the Dev Mode MCP Server",
+    "description":"The Dev Mode MCP Server brings Figma directly into your workflow by providing important design information and context to AI agents generating code from Figma ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/help.figma.com\/hc\/en-us\/articles\/32132100833559-Guide-to-the-Dev-Mode-MCP-Server"
+  },
+  {
+    "server_name":"Build MCP Servers With Tools From Scratch With Langchain",
+    "description":"Build AI Assistant With MCP Servers And Tools Using LangChain And Groq \u00b7 All You Need To Know About Model Context Protocol(MCP) \u00b7 The Ultimate MCP ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=ASRCJK2aWk0&pp=0gcJCd4JAYcqIYzv"
+  },
+  {
+    "server_name":"Connect Claude Code to tools via MCP",
+    "description":"Claude Code can connect to hundreds of external tools and data sources through the Model Context Protocol (MCP), an open-source standard for AI-tool ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/docs.anthropic.com\/en\/docs\/claude-code\/mcp"
+  },
+  {
+    "server_name":"Wish",
+    "description":"I want to be able to specify a config in the .cursor folder of my project which defines that project-specific MCP server (or multiple, but even just one would ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/forum.cursor.com\/t\/wish-project-specific-mcp-server-configs\/50725"
+  },
+  {
+    "server_name":"9 MCP Projects for AI Engineers - by Avi Chawla",
+    "description":"#1) 100% local MCP client \u00b7 #2) MCP-powered Agentic RAG \u00b7 #3) MCP-powered financial analyst \u00b7 #4) MCP-powered Voice Agent \u00b7 #5) A unified MCP server.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/blog.dailydoseofds.com\/p\/9-mcp-projects-for-ai-engineers"
+  },
+  {
+    "server_name":"How to Build a Simple MCP Server? | by Khushbu Shah",
+    "description":"In this tutorial, we will take you step by step through building a simple MCP server that fetches real-time weather data, gives you the latest forecasts,",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/medium.com\/projectpro\/how-to-build-a-simple-mcp-server-0659672bc52d"
+  },
+  {
+    "server_name":"executeautomation\/mcp-database-server",
+    "description":"MCP Database Server is a new MCP Server which helps connect with Sqlite, SqlServer and Posgresql Databases",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/executeautomation\/mcp-database-server"
+  },
+  {
+    "server_name":"MCP Server Directory",
+    "description":"A daily-updated directory of all Model Context Protocol (MCP) servers available on the internet. Connect your AI apps to external data sources and services.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.pulsemcp.com\/servers"
+  },
+  {
+    "server_name":"MCP Servers",
+    "description":"MCP Server is a system that provides context, tools, and prompts to AI clients. It can expose data sources like files, documents, databases, and API ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/mcp.so\/"
+  },
+  {
+    "server_name":"Introducing MCP Server for Oracle Database",
+    "description":"It can now be run as an MCP Server and provides MCP tools that allow an AI assistant to securely connect to Oracle Database. SQLcl manages the ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/blogs.oracle.com\/database\/post\/introducing-mcp-server-for-oracle-database"
+  },
+  {
+    "server_name":"Supercharging AWS database development with ...",
+    "description":"In this post, we explore the core concepts behind MCP and demonstrate how new AWS MCP servers can accelerate your database development through natural language ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/aws.amazon.com\/blogs\/database\/supercharging-aws-database-development-with-aws-mcp-servers\/"
+  },
+  {
+    "server_name":"Introduction | MCP Toolbox for Databases",
+    "description":"MCP Toolbox for Databases is an open source MCP server for databases. It enables you to develop tools easier, faster, and more securely.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/googleapis.github.io\/genai-toolbox\/getting-started\/introduction\/"
+  },
+  {
+    "server_name":"MCP Toolbox for Databases (formerly Gen AI ...",
+    "description":"MCP Toolbox for Databases (Toolbox) is an open-source MCP (Model Context Protocol) server that allows developers to connect gen AI agents to enterprise data ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/cloud.google.com\/blog\/products\/ai-machine-learning\/mcp-toolbox-for-databases-now-supports-model-context-protocol"
+  },
+  {
+    "server_name":"List of all MCP Servers (42)",
+    "description":"A comprehensive map of all available MCP servers, from reference implementations to community contributions",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/portkey.ai\/mcp-servers"
+  },
+  {
+    "server_name":"MCP servers",
+    "description":"Production-ready MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/glama.ai\/mcp\/servers"
+  },
+  {
+    "server_name":"Introducing MSSQL MCP Server (Preview) - Azure SQL ...",
+    "description":"This powerful gateway provides seamless connection across on-premises SQL Server, Azure SQL Database, and SQL Database in Microsoft Fabric, ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/devblogs.microsoft.com\/azure-sql\/introducing-mssql-mcp-server\/"
+  },
+  {
+    "server_name":"Unified Model Context Protocol (MCP) Server for Databases",
+    "description":"MindsDB's MCP server connects AI models directly to your database ecosystems\u2014whether cloud-based, on-premises, or hybrid\u2014including Oracle, PostgreSQL, MongoDB, ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/mindsdb.com\/unified-model-context-protocol-mcp-server-for-databases"
+  },
+  {
+    "server_name":"Turning Your Database Into an MCP Server With Auth",
+    "description":"With a remote MCP server, organizations expose their data and services to AI models over the internet, so the most important thing is Auth (authentication and ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/zenstack\/turning-your-database-into-an-mcp-server-with-auth-32mp"
+  },
+  {
+    "server_name":"MCP Servers for Cursor",
+    "description":"This Model Context Protocol (MCP) server enables seamless integration between AI-powered development environments and your DigitalOcean managed databases. Works ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/cursor.directory\/mcp"
+  },
+  {
+    "server_name":"Database MCP Server",
+    "description":"I'll show you the all-new Database MCP Server that lets you query SQL Server, SQLite and Postgres Server using just natural language.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=aEDimJAsRBQ"
+  },
+  {
+    "server_name":"What is an MCP server?",
+    "description":"An MCP server is a component of the Model Context Protocol (MCP), a standard designed to connect GenAI applications with enterprise data and AI tools.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.k2view.com\/blog\/mcp-server\/"
+  },
+  {
+    "server_name":"A Model Context Protocol (MCP) server for Microsoft SQL ...",
+    "description":"A Model Context Protocol (MCP) server for Microsoft SQL Server that enables secure database interactions through a controlled interface. Allows AI assistants to safely list tables, read data, and execute SQL queries while maintaining security and structure.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/RichardHan\/mssql_mcp_server"
+  },
+  {
+    "server_name":"Learn MCP by building an SQL AI Agent",
+    "description":"MCP Server: This is where you define your AI tools and how they work. You set up a server that knows how to do things like query a database or ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/ChatGPTCoding\/comments\/1jd9lfa\/learn_mcp_by_building_an_sql_ai_agent\/"
+  },
+  {
+    "server_name":"Microsoft SQL Server MCP tool",
+    "description":"An MCP (Model Context Protocol) tool makes database commands available to AI agents such as GitHub Copilot or Claude Code. Microsoft has now ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/devclass.com\/2025\/07\/02\/microsoft-sql-server-mcp-tool-leap-in-data-interaction-or-limited-and-frustrating\/"
+  },
+  {
+    "server_name":"Agents at Work",
+    "description":"In our previous blogpost, we introduced the groundbreaking MSSQL MCP Server (in Preview), highlighting its role in bridging your MSSQL databases ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/devblogs.microsoft.com\/azure-sql\/mssql-mcp-server-in-action-susans-journey\/"
+  },
+  {
+    "server_name":"MSSQL MCP Server",
+    "description":"Enables execution of SQL queries and management of Microsoft SQL Server database connections through the Model Context Protocol.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/glama.ai\/mcp\/servers\/@c0h1b4\/mssql-mcp-server"
+  },
+  {
+    "server_name":"The Best MCP Servers and LLMs for MS SQL Server",
+    "description":"The Best MCP Servers and LLMs for MS SQL Server \u00b7 1. DreamFactory \u00b7 2. Azure SQL Database \u00b7 3. OpenAI Codex \u00b7 4. GPT-4-based Models.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/blog.dreamfactory.com\/the-best-mcp-servers-and-llms-for-ms-sql-server"
+  },
+  {
+    "server_name":"mssql-mcp-server",
+    "description":"MSSQL MCP Server is a Model Context Protocol (MCP) server that enables secure and structured interaction with Microsoft SQL Server (MSSQL) databases. It allows ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/pypi.org\/project\/mssql-mcp-server\/"
+  },
+  {
+    "server_name":"How to Use Microsoft SQL Server MCP",
+    "description":"This tutorial will guide you through the setup and usage of an MCP (Model Context Protocol) server specifically designed for MS SQL Server.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/apidog.com\/blog\/ms-sql-server-mcp\/"
+  },
+  {
+    "server_name":"MCP SQL server",
+    "description":"MCP SQL Server lets AI tools securely access real-time SQL server data and context, enhancing AI insights, accuracy, and data governance across systems.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.k2view.com\/blog\/mcp-sql-server\/"
+  },
+  {
+    "server_name":"Getting Started with MSSQL MCP Server",
+    "description":"The MSSQL MCP Server transforms database interaction from a complex, syntax-heavy process into intuitive, natural language conversations.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/medium.com\/@Daradev\/unlocking-ai-powered-database-interactions-a-complete-guide-to-mssql-mcp-server-integration-134998978d4b"
+  },
+  {
+    "server_name":"Model Context Protocol",
+    "description":"MCP is an open protocol that standardizes how applications provide context to large language models (LLMs). Think of MCP like a USB-C port for AI ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/modelcontextprotocol.io\/"
+  },
+  {
+    "server_name":"Using the Model Context Protocol (MCP) With a Local LLM",
+    "description":"In this tutorial article, we'll start by creating an MCP server that offers a few tools, and then get a small Llama 3.2 model to make use of those tools.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/medium.com\/predict\/using-the-model-context-protocol-mcp-with-a-local-llm-e398d6f318c3"
+  },
+  {
+    "server_name":"What Is the Model Context Protocol (MCP) and How It Works",
+    "description":"The Model Context Protocol (MCP) addresses this challenge by providing a standardized way for LLMs to connect with external data sources and tools.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.descope.com\/learn\/post\/mcp"
+  },
+  {
+    "server_name":"Introducing the Model Context Protocol",
+    "description":"The Model Context Protocol is an open standard that enables developers to build secure, two-way connections between their data sources and AI-powered tools.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.anthropic.com\/news\/model-context-protocol"
+  },
+  {
+    "server_name":"One File To Turn Any LLM into an Expert MCP Pair- ...",
+    "description":"I wanted to share a powerful approach I've discovered for building MCP servers that works with any LLM. I've compiled comprehensive ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/ClaudeAI\/comments\/1h5o9uh\/one_file_to_turn_any_llm_into_an_expert_mcp\/"
+  },
+  {
+    "server_name":"How to Build an MCP Server for LLM Agents",
+    "description":"This is how to build an MCP server so you can connect your LLM agents into just about anything.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=EyYJI8TPIj8"
+  },
+  {
+    "server_name":"Building MCP with LLMs",
+    "description":"This guide will help you use LLMs to help you build custom Model Context Protocol (MCP) servers and clients. We'll be focusing on Claude for this tutorial, ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/modelcontextprotocol.io\/tutorials\/building-mcp-with-llms"
+  },
+  {
+    "server_name":"What is Model Context Protocol (MCP)? A guide",
+    "description":"The MCP server is the external service that provides context, data, or capabilities to the LLM. It helps LLMs by connecting to external systems like databases ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/cloud.google.com\/discover\/what-is-model-context-protocol"
+  },
+  {
+    "server_name":"Model Context Protocol(MCP) \u2014 Anthropic's ...",
+    "description":"The MCP build servers that expose data and functionality to LLM applications in a secure, standardized way. Think of it like a web API, but ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/medium.com\/@sulbha.jindal\/model-control-protocol-mcp-anthropics-standardization-to-llm-workflows-5bfda624838d"
+  },
+  {
+    "server_name":"14",
+    "description":"In fact, you can think of MCP servers as a library of ready-made tools that any agent can use. The difference is where the standardization lies.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/huggingface.co\/blog\/Kseniase\/mcp"
+  },
+  {
+    "server_name":"MCP Tutorial",
+    "description":"This is a crisp nononsense no BS hands-on introduction to model context protocol for the absolute beginners.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=RhTiAOGwbYE"
+  },
+  {
+    "server_name":"Introducing our Dev Mode MCP server",
+    "description":"We're announcing the beta release of the Dev Mode MCP server, which brings Figma directly into the developer workflow to help LLMs achieve design-informed code ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.figma.com\/blog\/introducing-figmas-dev-mode-mcp-server\/"
+  },
+  {
+    "server_name":"MCP Compatibility in AnythingLLM",
+    "description":"The Model Context Protocol (MCP) is an open protocol that enables seamless integration between LLM applications and external data sources and tools.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/docs.anythingllm.com\/mcp-compatibility\/overview"
+  },
+  {
+    "server_name":"Specification",
+    "description":"Model Context Protocol (MCP) is an open protocol that enables seamless integration between LLM applications and external data sources and tools.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/modelcontextprotocol.io\/specification\/2025-06-18"
+  },
+  {
+    "server_name":"Build an MCP Server in Minutes",
+    "description":"Build an MCP server from GitHub in minutes and learn how to reduce LLM token costs with best practices for performance, efficiency, ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.getambassador.io\/blog\/mcp-server-explained"
+  },
+  {
+    "server_name":"Introducing the dbt MCP Server \u2013 Bringing Structured Data to ...",
+    "description":"The dbt MCP server provides access to a set of tools that operate on top of your dbt project. These tools can be called by LLM systems to learn about your data ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/docs.getdbt.com\/blog\/introducing-dbt-mcp-server"
+  },
+  {
+    "server_name":"Claude MCP Community",
+    "description":"An MCP server allows AI agents to control web browsers via the browser-use tool, enabling automated web interactions and tasks. It provides a seamless interface ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.claudemcp.com\/en"
+  },
+  {
+    "server_name":"Connect to Local MCP Servers",
+    "description":"Learn how to extend Claude Desktop with local MCP servers to enable file system access and other powerful integrations.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/modelcontextprotocol.io\/quickstart\/user"
+  },
+  {
+    "server_name":"Can someone explain MCP to me? How are you using it? ...",
+    "description":"MCP essentially allows you to give Claude access to various external systems. This can be files on your computer, an API, a browser, a database, or anything ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/ClaudeAI\/comments\/1h55zxd\/can_someone_explain_mcp_to_me_how_are_you_using\/"
+  },
+  {
+    "server_name":"Connect Claude to MCP Servers for Better AI Capabilities",
+    "description":"This guide will explain how MCP works and how it can improve interactions between Claude and your apps. We'll also walk you through the steps to connect Claude ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.getmesa.com\/blog\/how-to-connect-mcp-server-claude\/"
+  },
+  {
+    "server_name":"Claude MCP has Changed AI Forever - Here's What You ...",
+    "description":"Remember, the MCP framework is OPEN SOURCE meaning it is universally compatible. We are not stuck with a single client. Nor is it specific to ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=v_6EXt6T83I"
+  },
+  {
+    "server_name":"Building My First MCP Server",
+    "description":"In this blog, I'll walk you through how I built my very first MCP (Model Context Protocol) server to connect a local AI assistant \u2014 Claude ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/medium.com\/@anil.goyal0057\/building-my-first-mcp-server-integrating-ai-with-local-tools-using-claude-desktop-5d58910f658c"
+  },
+  {
+    "server_name":"How to Add MCP Servers to Claude (Free and Paid)",
+    "description":"Want to supercharge Claude AI with custom tools? In this quick tutorial, I'll show you how to add MCP servers to Claude.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=fSQiIA5jW5E"
+  },
+  {
+    "server_name":"Connect to Remote MCP Servers",
+    "description":"The process of connecting Claude to a remote MCP server involves adding a Custom Connector through the Claude interface. This establishes a secure connection ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/modelcontextprotocol.io\/docs\/tutorials\/use-remote-mcp-server"
+  },
+  {
+    "server_name":"Claude's Model Context Protocol is here... Let's test it",
+    "description":"... MCP server can give any AI model superpowers. In this tutorial, we build an TypeScript server that provides Claude with additional context ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=HyzlYwjoXOQ"
+  },
+  {
+    "server_name":"Claude Code GPT-5 MCP Server EASY Tutorial (you wont ...",
+    "description":"A simple way to do it is just to create a simple MCP server you can run this locally as we're going to do today.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=SEcvuS4u0dk"
+  },
+  {
+    "server_name":"How to add MCP servers to Claude (free and paid)",
+    "description":"You can add an MCP to Claude by pressing the \"+ Add Custom Integration\" button. You'll need to give your integration a name and a URL.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.weavely.ai\/blog\/claude-mcp"
+  },
+  {
+    "server_name":"How to Use MCP Servers with Claude Desktop | Real-Time AI ...",
+    "description":"In this video, I walk you through the basics of getting started with MCP servers using Claude Desktop as the client. Whether you're new to ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/m.youtube.com\/watch?v=vDT1_b5eEkM"
+  },
+  {
+    "server_name":"Claude MCP",
+    "description":"Anthropic's Claude Model Context Protocol (MCP) is an open standard enabling AI systems to connect with external tools and real-time data sources.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.walturn.com\/insights\/claude-mcp-a-new-standard-for-ai-integration"
+  },
+  {
+    "server_name":"MCP Server",
+    "description":"What is MCP? Model Context Protocol (MCP) allows Claude and other AI assistants to access external tools and data sources through specialized servers.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/docs.agent.ai\/mcp-server"
+  },
+  {
+    "server_name":"How to Connect Claude AI to a Remote MCP Server",
+    "description":"In this tutorial, we'll walk through how to connect Claude AI to a remote MCP server, using examples like managing Jira tickets with Atlassian and automating ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/apidog.com\/blog\/claude-ai-remote-mcp-server\/"
+  },
+  {
+    "server_name":"BeehiveInnovations\/zen-mcp-server",
+    "description":"The power of Claude Code + [Gemini \/ OpenAI \/ Grok \/ OpenRouter \/ Ollama \/ Custom Model \/ All Of The Above] working as one.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/BeehiveInnovations\/zen-mcp-server"
+  },
+  {
+    "server_name":"Using LangChain With Model Context Protocol (MCP)",
+    "description":"The Model Context Protocol (MCP) is an open-source protocol developed by Anthropic, focusing on safe and interpretable Generative AI systems.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/cobusgreyling.medium.com\/using-langchain-with-model-context-protocol-mcp-e89b87ee3c4c"
+  },
+  {
+    "server_name":"langchain-ai\/langchain-mcp-adapters",
+    "description":"LangChain \ud83d\udd0c MCP",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/langchain-ai\/langchain-mcp-adapters"
+  },
+  {
+    "server_name":"MCP Server - Docs by LangChain",
+    "description":"To connect to an MCP server which requires authentication, you should set NEXT_PUBLIC_MCP_AUTH_REQUIRED=true . The way MCP authentication works is as follows: ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/docs.langchain.com\/labs\/oap\/setup\/mcp-server"
+  },
+  {
+    "server_name":"Use MCP - GitHub Pages",
+    "description":"The langchain-mcp-adapters package enables agents to use tools defined across one or more MCP servers. In an agent In a workflow. Agent using tools defined on ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/langchain-ai.github.io\/langgraph\/agents\/mcp\/"
+  },
+  {
+    "server_name":"MCP Adapters for LangChain and LangGraph",
+    "description":"The LangChain MCP Adapters is a package that makes it easy to use Anthropic Model Context Protocol (MCP) tools with LangChain & LangGraph.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/changelog.langchain.com\/announcements\/mcp-adapters-for-langchain-and-langgraph"
+  },
+  {
+    "server_name":"Use MCP - Docs by LangChain",
+    "description":"Use MCP tools. The langchain-mcp-adapters package enables agents to use tools defined across one or more MCP servers.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/docs.langchain.com\/oss\/python\/use-mcp"
+  },
+  {
+    "server_name":"I Tried to Use Langchain with MCP Servers, Here're the ...",
+    "description":"This comprehensive tutorial will guide you through implementing MCP with LangChain, providing you with the knowledge to create sophisticated applications.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/apidog.com\/blog\/langchain-mcp-server\/"
+  },
+  {
+    "server_name":"MCPs + LangChain + FastAPI",
+    "description":"This example demonstrates a LangChain-based agent interacting with an MCP server using stdio transport. The agent operates in a loop, allowing ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/medium.com\/@andres.tellez\/mcps-langchain-from-zero-to-hero-ae3149d83c3d"
+  },
+  {
+    "server_name":"LangChain MCP Adapter",
+    "description":"The LangChain MCP adapter lets agents connect to any server that follows the Model Context Protocol, including Composio's managed MCP server.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/composio.dev\/blog\/langchain-mcp-adapter-a-step-by-step-guide-to-build-mcp-agents"
+  },
+  {
+    "server_name":"How to Create an MCP Client Server Using LangChain",
+    "description":"This guide provides a clear, beginner-friendly walkthrough for creating an MCP client server using LangChain.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.analyticsvidhya.com\/blog\/2025\/04\/mcp-client-server-using-langchain\/"
+  },
+  {
+    "server_name":"LangChain + MCP Server(s)",
+    "description":"Showcasing 2 different ways of implementing MCP servers with LangChain. Focus is on a completely local running setup so Ollama models also ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=vfaiA0u7uvE"
+  },
+  {
+    "server_name":"What's the pros and cons compared langchain tools vs ...",
+    "description":"This point I think summed it all up: \"While MCP focuses on standardizing data access for AI systems, LangChain and LangGraph offer comprehensive ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/LangChain\/comments\/1h2csxn\/whats_the_pros_and_cons_compared_langchain_tools\/"
+  },
+  {
+    "server_name":"MCP",
+    "description":"But we also know: MCP has tool definitions - and the good MCP servers will probably have better tool descriptions than you would write quickly.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/blog.langchain.com\/mcp-fad-or-fixture\/"
+  },
+  {
+    "server_name":"langchain-mcp-tools",
+    "description":"This package is intended to simplify the use of Model Context Protocol (MCP) server tools with LangChain \/ Python.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/pypi.org\/project\/langchain-mcp-tools\/"
+  },
+  {
+    "server_name":"MCP with streamable HTTP transport",
+    "description":"You can now connect LangGraph agents to remote MCP servers reliably via the new recommended transport - streamable HTTP.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/changelog.langchain.com\/announcements\/mcp-with-streamable-http-transport"
+  },
+  {
+    "server_name":"LangChain Model Context Protocol (MCP) Adapters",
+    "description":"This module provides the MultiServerMCPClient class for managing connections to multiple MCP servers and loading tools, prompts, and resources from them.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/langchain-ai.github.io\/langgraph\/reference\/mcp\/"
+  },
+  {
+    "server_name":"Build AI Assistant With MCP Servers And Tools Using ...",
+    "description":"All You Need To Know About Model Context Protocol(MCP). Krish Naik \u00b7 186K views ; Build MCP Servers With Tools From Scratch With Langchain. Krish ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=BG4F3b5QpjM"
+  },
+  {
+    "server_name":"Docker MCP Catalog and Toolkit",
+    "description":"The MCP Catalog gives you a curated set of trusted servers to get started fast. Connect MCP servers to clients like Docker AI Agent, Claude, Cursor, VS Code, ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.docker.com\/products\/mcp-catalog-and-toolkit\/"
+  },
+  {
+    "server_name":"Docker MCP Catalog | Discover Secure, Top MCP Servers",
+    "description":"A Model Context Protocol (MCP) server that provides web search capabilities through DuckDuckGo, with additional features for content fetching and parsing.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/hub.docker.com\/mcp"
+  },
+  {
+    "server_name":"Introducing Docker Hub MCP Server",
+    "description":"The Docker Hub MCP Server is an MCP server that interfaces with Docker Hub APIs to make them accessible to LLMs, enabling intelligent content discovery and ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.docker.com\/blog\/introducing-docker-hub-mcp-server\/"
+  },
+  {
+    "server_name":"Run MCP Servers In Seconds With Docker",
+    "description":"With Docker MCP Toolkit, with a single click of a button from Docker Desktop, we can spin MCP servers in seconds and connect to our favourite client.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/pradumnasaraf\/run-mcp-servers-in-seconds-with-docker-1ik5"
+  },
+  {
+    "server_name":"mcp | Docker Hub",
+    "description":"Discover official Docker images from mcp, a Verified Publisher on Docker Hub. Visit their profile and explore images they maintain.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/hub.docker.com\/u\/mcp"
+  },
+  {
+    "server_name":"How to Run MCP Servers with Docker",
+    "description":"Docker is also back to help us with spinning up MCP servers inside Docker containers. Let's review a few examples of those.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/snyk.io\/articles\/how-to-run-mcp-servers-with-docker\/"
+  },
+  {
+    "server_name":"QuantGeekDev\/docker-mcp",
+    "description":"A docker MCP Server (modelcontextprotocol)",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/QuantGeekDev\/docker-mcp"
+  },
+  {
+    "server_name":"How to build and deliver an MCP server for production",
+    "description":"A much better approach is to simply use one MCP server: Docker. This MCP server acts as a gateway into a dynamic set of containerized tools.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.docker.com\/blog\/build-to-prod-mcp-servers-with-docker\/"
+  },
+  {
+    "server_name":"How to Use Docker MCP Catalog and Toolkit (Docker Tutorial)",
+    "description":"MCP stands for model context protocol and what it provides is the ability to basically attach additional tooling to each of these applications.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=6I2L4U7Xq6g"
+  },
+  {
+    "server_name":"Discover and Run Secure MCP Servers",
+    "description":"We're excited to share major updates to the Docker MCP Catalog, including enhanced discovery features and our new open submission process.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.docker.com\/blog\/docker-mcp-catalog-secure-way-to-discover-and-run-mcp-servers\/"
+  },
+  {
+    "server_name":"A MCP Server for Docker Management",
+    "description":"docker-mcp, a Model Context Protocol server that allows MCP protocol clients to use Docker container and compose stack management.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/docker\/comments\/1h6yxwf\/introducing_dockermcp_a_mcp_server_for_docker\/"
+  },
+  {
+    "server_name":"Exploring the Docker Desktop Extension for MCP servers",
+    "description":"Here I'm going to show you an experimental extension that we've been working on that you can try yourself right now and this is for Docker desktop.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=eyNX0Uv4jq0"
+  },
+  {
+    "server_name":"Model Context Protocol (MCP)",
+    "description":"Model Context Protocol (MCP) is an open protocol that standardizes how applications provide context and additional functionality to large language models.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/docs.docker.com\/ai\/gordon\/mcp\/"
+  },
+  {
+    "server_name":"How do I run multiple MCP servers in the same Docker ...",
+    "description":"The right way to do it is tool registration - FastMCP supports composing multiple servers together using import_server (static copy) and mount (live link).",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/mcp\/comments\/1kmf6f4\/how_do_i_run_multiple_mcp_servers_in_the_same\/"
+  },
+  {
+    "server_name":"MCP on Docker",
+    "description":"The MCP Server configuration file is located in the plugins\/anythingllm_mcp_servers.json file in the AnythingLLM storage directory.. The ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/docs.anythingllm.com\/mcp-compatibility\/docker"
+  },
+  {
+    "server_name":"Docker Compose MCP server for AI agents - Playbooks",
+    "description":"Docker MCP is a server that allows you to manage Docker containers using natural language instructions. It enables you to create, configure, and manage Docker ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/playbooks.com\/mcp\/ckreiling-mcp-server-docker"
+  },
+  {
+    "server_name":"Dynamic and scalable MCP Server infrastructure in docker",
+    "description":"I want to create a dynamic and scalable MCP infrastructure. The goal is to have a MCP Server and add MCP Tools dynamically.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/stackoverflow.com\/questions\/79695735\/dynamic-and-scalable-mcp-server-infrastructure-in-docker"
+  },
+  {
+    "server_name":"Notion MCP \u2013 Connect Notion to your favorite AI tools",
+    "description":"Notion MCP is our hosted server that gives AI tools secure access to your Notion workspace. It's designed to work seamlessly with popular AI assistants like ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/developers.notion.com\/docs\/mcp"
+  },
+  {
+    "server_name":"makenotion\/notion-mcp-server",
+    "description":"Official Notion MCP Server",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/makenotion\/notion-mcp-server"
+  },
+  {
+    "server_name":"Connecting to Notion MCP",
+    "description":"This guide explains how to connect an AI tool to Notion using the Model Context Protocol (MCP) through Notion's app or the AI tool's directory, allowing the ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/developers.notion.com\/docs\/get-started-with-mcp"
+  },
+  {
+    "server_name":"Notion's hosted MCP server",
+    "description":"We've built a code-generation pipeline for Notion's hosted MCP server, converting our generated OpenAPI schemas to Zod and plumbing those into the hosted MCP ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.notion.com\/blog\/notions-hosted-mcp-server-an-inside-look"
+  },
+  {
+    "server_name":"suekou\/mcp-notion-server",
+    "description":"MCP Server for the Notion API, enabling LLM to interact with Notion workspaces. Additionally, it employs Markdown conversion to reduce context size.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/suekou\/mcp-notion-server"
+  },
+  {
+    "server_name":"Notion MCP Server",
+    "description":"Notion MCP Server is an implementation of the MCP that allows AI assistants to interact directly with your Notion pages and databases!",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/Notion\/comments\/1ji6a2m\/notion_mcp_server_now_with_full_database_support\/"
+  },
+  {
+    "server_name":"notion-mcp-server",
+    "description":"Notion MCP Server is a Model Context Protocol (MCP) server implementation that enables AI assistants to interact with Notion's API. This production-ready server ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/glama.ai\/mcp\/servers\/@awkoy\/notion-mcp-server"
+  },
+  {
+    "server_name":"notionhq\/notion-mcp-server",
+    "description":"This project implements an MCP server for the Notion API. mcp-demo Installation 1. Setting up Integration in Notion: Go to https:\/\/www.notion.so\/profile\/ ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.npmjs.com\/package\/@notionhq\/notion-mcp-server"
+  },
+  {
+    "server_name":"Hosting a local MCP server",
+    "description":"The notion-mcp-server package is an open-source implementation for running your own MCP server, offering more control and customization compared to Notion's ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/developers.notion.com\/docs\/hosting-open-source-mcp"
+  },
+  {
+    "server_name":"How to Setup Notion MCP Servers for AI Note-taking ...",
+    "description":"This guide will walk you through the complete process of setting up your own Notion MCP server, from initial configuration to practical use cases.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/apidog.com\/blog\/notion-mcp-server\/"
+  },
+  {
+    "server_name":"Notion MCP \u2013 Supported tools",
+    "description":"The document explains how AI assistants can utilize Notion MCP tools to efficiently create, search, and manage content within a Notion workspace by using ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/developers.notion.com\/docs\/mcp-supported-tools"
+  },
+  {
+    "server_name":"Notion MCP Server",
+    "description":"Notion-MCP is a server solution that enhances Notion's functionality, offering improved performance, reliability, and customization options.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.claudemcp.com\/servers\/notion-mcp-server"
+  },
+  {
+    "server_name":"Build your AI Second Brain with Notion and Claude (MCP)",
+    "description":"In this video you will learn how to achieve the exact same thing and build up your second brain even faster than before.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=NMmDnYKD0fE"
+  },
+  {
+    "server_name":"notion-mcp MCP Server",
+    "description":"A simple Model Context Protocol (MCP) server that integrates with Notion's API to manage my personal todo list. SiliconFlow ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/mcp.so\/server\/notion-mcp"
+  },
+  {
+    "server_name":"How to Connect Your OWL Agent to Notion via the MCP ...",
+    "description":"In this post, we'll walk through how to connect a CAMEL-AI agent (using OWL) to Notion using the official Notion Model Context Protocol Server.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.camel-ai.org\/blogs\/connect-your-owl-agent-to-notion-via-the-mcp-server"
+  },
+  {
+    "server_name":"Notion MCP Server - Questions",
+    "description":"Is there a Notion.so n8n community MCP Node available? Can someone use this https:\/\/mcpmarket.com\/server\/systemprompt-notion and convert to be imported in n8n ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/community.n8n.io\/t\/notion-mcp-server\/100367"
+  },
+  {
+    "server_name":"How to effectively use Notion MCP Server with Cursor and ...",
+    "description":"How to Set Up Notion MCP Server \u00b7 Step 1: Connect Your Notion Account \u00b7 Step 2: Give a Unique Name to the Server \u00b7 Step 3: Choose which actions ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/composio.dev\/blog\/how-to-effectively-use-notion-mcp-server-with-cursor-and-claude-for-note-taking"
+  },
+  {
+    "server_name":"korotovsky\/slack-mcp-server",
+    "description":"The most powerful MCP Slack Server with no permission requirements, Apps support, multiple transports Stdio and SSE, DMs, Group DMs and smart history fetch logic.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.com\/korotovsky\/slack-mcp-server"
+  },
+  {
+    "server_name":"How to Use Slack MCP Server Effortlessly",
+    "description":"The Slack Model Context Protocol (MCP) Server provides a seamless way to integrate AI assistants like Claude into your Slack workspace.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/apidog.com\/blog\/slack-mcp-server\/"
+  },
+  {
+    "server_name":"Slack MCP",
+    "description":"This MCP server integrates Slack with Claude perfectly and you don't even need to create and add bots or apps to the workspace.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/ClaudeAI\/comments\/1ju62zf\/slack_mcp_connect_slack_to_ai\/"
+  },
+  {
+    "server_name":"Secure Data Connectivity for the Modern AI Era",
+    "description":"Slack MCP Support: Expanding integration capabilities with MCP \u00b7 Rich Data Grounding: Tap into Slack's conversational and file data for context to generate more ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/slack.dev\/secure-data-connectivity-for-the-modern-ai-era\/"
+  },
+  {
+    "server_name":"Instantly Connect Your Slack AI Agent with MCP",
+    "description":"Boost your Slack AI agent's capability using Model Context Protocol (MCP). Integrate instantly with 2500+ apps for smarter workflows and automated tasks.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/runbear.io\/solutions\/integrations\/slack\/mcp"
+  },
+  {
+    "server_name":"Slack - MCP Server",
+    "description":"Installation Steps. Open Cursor Settings. Navigate to Cursor Settings > Features > MCP; Click the \"+ Add New MCP Server\" button.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/cursor.directory\/mcp\/slack"
+  },
+  {
+    "server_name":"How to use Slack MCP server with Claude flawlessly",
+    "description":"Slack MCP is a secure integration that connects your Slack workspace to MCP clients, such as Claude and Cursor. It gives large language models ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/composio.dev\/blog\/how-to-use-slack-mcp-server-with-claude-flawlessly"
+  },
+  {
+    "server_name":"Model Context Protocol(MCP) with ChatGPT and Slack ...",
+    "description":"This step-by-step guide with complete code, will show you how to build a Slack bot, connect it to ChatGPT using an MCP server, and use it to summarize hundreds ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/medium.com\/@okekechimaobi\/model-context-protocol-mcp-with-chatgpt-and-slack-a-productivity-bot-that-saves-time-by-3880b25a153a"
+  },
+  {
+    "server_name":"Slack MCP Server - MCP AI",
+    "description":"Zapier Slack MCP lets you connect Slack's actions with any AI tool that supports MCP, all without managing integrations or writing glue code.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/zapier.com\/mcp\/slack"
+  },
+  {
+    "server_name":"slack-mcp-server",
+    "description":"Feature-rich Model Context Protocol (MCP) server that lets LLM agents read\/search\/post Slack messages in both OAuth and totally permission-less stealth ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.augmentcode.com\/mcp\/slack-mcp-server"
+  },
+  {
+    "server_name":"Slack MCP Server by Anthropic",
+    "description":"Integrates with Slack workspaces to enable channel management, messaging, thread interactions, reaction handling, and user information retrieval.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.pulsemcp.com\/servers\/slack"
+  },
+  {
+    "server_name":"modelcontextprotocol\/server-slack",
+    "description":"MCP Server for the Slack API, enabling Claude to interact with Slack workspaces. Tools. slack_list_channels. List public or pre-defined channels ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.npmjs.com\/package\/@modelcontextprotocol\/server-slack"
+  },
+  {
+    "server_name":"Slack MCP Server",
+    "description":"You need to create a Slack app, configure scopes, and install it in your workspace. Can Slack be integrated with other tools? Yes, Slack supports integration ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/mcp.so\/server\/slack"
+  },
+  {
+    "server_name":"Slack MCP server for AI agents - Playbooks",
+    "description":"The Slack MCP Server enables Claude to interact with Slack ... To add a global MCP server go to Cursor Settings > Tools & Integrations and click \"New MCP Server\".",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/playbooks.com\/mcp\/slack"
+  },
+  {
+    "server_name":"Slack MCP Server",
+    "description":"A modern FastMCP server for Slack integration, built with FastMCP 2.8.0. Requires environment variables for Slack Bot Token and OpenAI API ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/lobehub.com\/mcp\/bahakizil-slack_mcp_server"
+  },
+  {
+    "server_name":"Security Advisory",
+    "description":"In this video, we break down a critical data exfiltration vulnerability in Anthropic's now-deprecated Slack MCP Server.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=nlehKmz5Myg"
+  },
+  {
+    "server_name":"mcp-slack",
+    "description":"This server provides tools for interacting with Slack, including sending messages, managing channels, and accessing workspace information.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/pypi.org\/project\/mcp-slack\/"
+  },
+  {
+    "server_name":"Slack MCP Server",
+    "description":"The Slack MCP Server enables AI assistants to interact with Slack's API through a standardized interface, providing tools for: Message Management: Post messages ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/glama.ai\/mcp\/servers\/@ubie-oss\/slack-mcp-server"
+  },
+  {
+    "server_name":"Extending GitHub Copilot Chat with the Model Context ...",
+    "description":"MCP servers can define preconfigured prompts for interacting with their tools. You can access these prompts in chat with slash commands, using the format \/mcp.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/docs.github.com\/copilot\/customizing-copilot\/using-model-context-protocol\/extending-copilot-chat-with-mcp"
+  },
+  {
+    "server_name":"Working with MCP servers in GitHub Copilot Agent mode",
+    "description":"I'm going to show you how I am personally using these in my daily development with a really good example using the GitHub MCP server.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=ZlrQJQV14xQ"
+  },
+  {
+    "server_name":"End-to-end development with GitHub Copilot + MCP server ...",
+    "description":"Use GitHub Copilot and the GitHub MCP Server together for seamless, end-to-end software development - right from your IDE.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=HN47tveqfQU"
+  },
+  {
+    "server_name":"Debugging UI with AI",
+    "description":"Explore how I use agentic tools like GitHub Copilot agent mode and the Playwright MCP server to accelerate troubleshooting and debugging of UI issues.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.blog\/ai-and-ml\/github-copilot\/debugging-ui-with-ai-github-copilot-agent-mode-meets-mcp-servers\/"
+  },
+  {
+    "server_name":"Web app as MCP server in GitHub Copilot Chat agent ...",
+    "description":"In this tutorial, you'll learn how to expose an ASP.NET Core app's functionality through Model Context Protocol (MCP), add it as a tool to GitHub Copilot, and ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/learn.microsoft.com\/en-us\/azure\/app-service\/tutorial-ai-model-context-protocol-server-dotnet"
+  },
+  {
+    "server_name":"Copilot coding agent now supports remote MCP servers",
+    "description":"With GitHub Copilot coding agent, you can now configure and use remote Model Context Protocol (MCP) servers to expand the agent's context ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/github.blog\/changelog\/2025-07-09-copilot-coding-agent-now-supports-remote-mcp-servers\/"
+  },
+  {
+    "server_name":"MCP -> GitHub Copilot",
+    "description":"The Pieces MCP (Model Context Protocol) integration with GitHub Copilot allows you to leverage Pieces Long-Term Memory (LTM) directly within the Visual Studio ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/docs.pieces.app\/products\/mcp\/github-copilot"
+  },
+  {
+    "server_name":"MCP Servers + Github Copilot chat. How to configure to ...",
+    "description":"Hello. I have tried to use MCP servers in VS Code as part of copilot chat. I have got it working patrially but still usable to get normal ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/vscode\/comments\/1me0cjp\/mcp_servers_github_copilot_chat_how_to_configure\/"
+  },
+  {
+    "server_name":"Supercharge VSCode GitHub Copilot using Model Context ...",
+    "description":"In this guide, we will focus on the GitHub MCP server, and walk you through the process of getting up and running in VSCode quickly.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/pwd9000\/supercharge-vscode-github-copilot-using-model-context-protocol-mcp-easy-setup-guide-371e"
+  },
+  {
+    "server_name":"Vibe Code your first MCP server with GitHub Copilot",
+    "description":"MCP lets you connect an AI agent with literally anything and that means that you can now do almost anything with an AI.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=hCb1NY2c05k"
+  },
+  {
+    "server_name":"[Step by Step] Using GitHub MCP Server with Copilot ...",
+    "description":"In this article, let's explore how to leverage the built-in GitHub MCP Server in Visual Studio Code using GitHub Copilot in Agent Mode.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/rajeevpentyala.com\/2025\/06\/01\/step-by-step-using-github-mcp-server-with-copilot-agent-in-vs-code\/"
+  },
+  {
+    "server_name":"GitHub Copilot Code Agent",
+    "description":"I am experiencing an issue where I am unable to access any tools when using the GitHub Copilot Coding Agent on the web with the Atlassian MCP server.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/GithubCopilot\/comments\/1lb0sjd\/github_copilot_code_agent_retrieved_0_tools_from\/"
+  },
+  {
+    "server_name":"GitHub Copilot Agent Mode with MCP",
+    "description":"GitHub Copilot now supports MCP (Model Context Protocol), allowing you to connect new services inside VS Code Insiders\u2014and soon, ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=WySJOAlVpQ0"
+  },
+  {
+    "server_name":"Boosting Your Productivity with GitHub Copilot Agent Mode ...",
+    "description":"Enter Github Copilot Agent Mode and MCP Servers: A New Paradigm. Github Copilot has introduced an agent mode for a couple of months now.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/medium.com\/learnings-from-the-paas\/boosting-your-productivity-with-github-copilot-agent-mode-using-jira-and-github-mcp-servers-88e923efe79a"
+  },
+  {
+    "server_name":"Using GitHub Copilot and MCP servers to NOT write code",
+    "description":"Liam is here to show you how he is using Visual Studio Code and GitHub Copilot Agent mode with MCP servers to automate his daily task list ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.youtube.com\/watch?v=VdYR_Qf-j38"
+  },
+  {
+    "server_name":"Let's Learn About MCP Together! - by Adriana Villela",
+    "description":"With MCP, an LLM (MCP client) accesses a service by communicating with an MCP server via the MCP protocol. The MCP server acts like an ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/medium.com\/womenintechnology\/lets-learn-about-mcp-together-be1601dc7a81"
+  },
+  {
+    "server_name":"What is MCP and why you should pay attention | by",
+    "description":"MCP is a way of extending the functionality of an AI, in much the same way an app extends the functionality of a phone.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/waleedk.medium.com\/what-is-mcp-and-why-you-should-pay-attention-31524da7733f"
+  },
+  {
+    "server_name":"These 9 MCP Servers Improve AI Context (Reduce 99% ...",
+    "description":"1. Context7 MCP \u00b7 2. Memory Bank MCP Server \u00b7 3. Knowledge Graph Memory Server \u00b7 4. Filesystem MCP Server \u00b7 5. GitMCP \u00b7 6. Obsidian-MCP \u00b7 7.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/medium.com\/@joe.njenga\/these-9-mcp-servers-improve-ai-context-reduce-99-code-errors-d2ba7acd9d94"
+  },
+  {
+    "server_name":"These MCP servers are amazing for coding | by Tari Ibaba",
+    "description":"1. Sentry MCP Server \u00b7 2. Sequential Thinking MCP Server \u00b7 3. Git MCP servers \u00b7 4. Puppeteer MCP Server \u00b7 5. Firebase MCP Server. I tried using ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/medium.com\/coding-beauty\/mcp-servers-479614e4b74c"
+  },
+  {
+    "server_name":"Building an MCP server as an API developer | by Heeki Park",
+    "description":"I walk through the process by starting with core business logic, then building a local MCP server, and then deploying it as a remote MCP server using Amazon ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/heeki.medium.com\/building-an-mcp-server-as-an-api-developer-cfc162d06a83"
+  },
+  {
+    "server_name":"Gemini CLI Tutorial Series \u2014 Part 5",
+    "description":"This tutorial will take you through how we configure MCP Servers in Gemini CLI, a few commands then within Gemini CLI to work with them.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/medium.com\/google-cloud\/gemini-cli-tutorial-series-part-5-github-mcp-server-b557ae449e6e"
+  },
+  {
+    "server_name":"\ud83e\udde0 I Used MCP for 3 months",
+    "description":"MCP Servers usually act as a bridge between your tools and your LLM. For example: \u2014 An MCP Server for Google Drive connects your files to the ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/medium.com\/towards-artificial-intelligence\/i-used-mcp-for-3-months-everything-you-need-to-know-24-best-servers-0c02f3915867"
+  },
+  {
+    "server_name":"MCP Explained",
+    "description":"MCP Servers. An MCP server is like a smart adapter for a tool or app. It knows how to take a request from an AI (like \u201cGet ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/tutorials.botsfloor.com\/mcp-explained-the-new-standard-connecting-ai-to-everything-79c5a1c98288"
+  },
+  {
+    "server_name":"\ud83d\ude80Top 10 MCP Servers for 2025 (Yes, GitHub's Included!) ...",
+    "description":"We'll explore the 10 most powerful MCP servers that are transforming development workflows in 2025. From automating GitHub tasks to enhancing team ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/fallon_jimmy\/top-10-mcp-servers-for-2025-yes-githubs-included-15jg"
+  },
+  {
+    "server_name":"MCP Servers That I Use as a Technical Founder",
+    "description":"MCP Servers That I Use as a Technical Founder \u00b7 1. Docker Hub MCP Server \u00b7 2. GitHub MCP Server \u00b7 3. Sliplane MCP Server \u00b7 4. Dev.to MCP Server.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/code42cate\/mcp-servers-that-i-use-as-a-technical-founder-3ia6"
+  },
+  {
+    "server_name":"Building Your First MCP Server",
+    "description":"In this tutorial, you'll create a weather server that connects AI agents like GitHub Copilot to live weather data.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/debs_obrien\/building-your-first-mcp-server-a-beginners-tutorial-5fag"
+  },
+  {
+    "server_name":"My 2025 Roundup of Must-Know MCP Servers",
+    "description":"What I love about MCP is how it standardizes the way different tools APIs, databases, cloud services connect with AI agents and developer ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/therealmrmumba\/my-2025-roundup-of-must-know-mcp-services-3146"
+  },
+  {
+    "server_name":"My Favorite MCP Directories",
+    "description":"If you're working with Model Context Protocol, you'll need MCP servers for different types of data \u2014 IDEs, calendars, docs, databases, etc.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/techgirl1908\/my-favorite-mcp-directories-573n"
+  },
+  {
+    "server_name":"MCP Server",
+    "description":"An MCP server is an open, standardized interface that enables AI models (like GitHub Copilot, Claude, or custom LLMs) to interact with external ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/samira_talebi_cca34ce28b8\/mcp-server-powring-ai-driven-workflows-52i7"
+  },
+  {
+    "server_name":"My Personal Top MCP Servers \u2014 The Ultimate List",
+    "description":"MCP servers are like plugins for Cursor that give it superpowers. Instead of constantly switching between your browser, docs, and editor, everything just works ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/freeman_nomad\/my-personal-top-mcp-servers-the-ultimate-list-1p37"
+  },
+  {
+    "server_name":"Understanding MCP Servers",
+    "description":"An MCP server is a specialized server that implements the Model Context Protocol, designed to enhance interactions with LLMs by managing contextual information ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/jorgecontreras\/understanding-mcp-servers-the-model-context-protocol-explained-150j"
+  },
+  {
+    "server_name":"Who are your MCP servers talking to?",
+    "description":"ToolHive's permission profiles let you precisely define network rules for each MCP server. Here's a quick walkthrough of some common use cases.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/stacklok\/who-are-your-mcp-servers-talking-to-1m5e"
+  },
+  {
+    "server_name":"Securing MCP Servers",
+    "description":"The term MCP (Model Context Protocol) was first introduced by Anthropic in November 2024 as an open standard and open-source framework.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/aws-builders\/securing-mcp-servers-3knf"
+  },
+  {
+    "server_name":"Building and Using MCP Servers in Amazon Q CLI",
+    "description":"What is an MCP server? Even if you know that MCP stands for Model Context Protocol, that's no that obvious to understand or see the benefits ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/welcloud-io\/building-and-using-mcp-servers-in-amazon-q-cli-3im"
+  },
+  {
+    "server_name":"Visual Studio Code + Model Context Protocol (MCP) Servers",
+    "description":"This post is going to have a look and set up MCP servers such as @modelcontextprotocol\/server-filesystem, Custom MCP server with .NET SDK, and @ ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/thangchung\/visual-studio-code-model-context-protocol-mcp-servers-the-first-look-18nb"
+  },
+  {
+    "server_name":"MCP Servers for Agentic Dev Platforms",
+    "description":"We will cover how you can run MCP servers on Kubernetes. With such a setup, you can use them for different use cases and allow your developers to connect to ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/cyclops-ui\/mcp-servers-for-agentic-dev-platforms-3ja9"
+  },
+  {
+    "server_name":"Introducing Model Context Protocol (MCP) Server for ...",
+    "description":"Introducing Couchbase MCP Server: an open-source solution to power AI agents and GenAI apps with real-time access to your Couchbase data.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/couchbase\/introducing-model-context-protocol-mcp-server-for-couchbase-3o5p"
+  },
+  {
+    "server_name":"Creating an MCP Server Using Go",
+    "description":"MCP is an open protocol that standardizes how applications provide context to LLMs. Think of MCP as a USB-C port for AI applications.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/eminetto\/creating-an-mcp-server-using-go-3foe"
+  },
+  {
+    "server_name":"8 MCP Servers Every Developer Should Try!",
+    "description":"8 MCP Servers You Should Know \u00b7 1. Slack MCP Server \u00b7 2. GitHub MCP Server \u00b7 3. Brave Search MCP Server \u00b7 4. Docker MCP Server \u00b7 5. SingleStore ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/pavanbelagatti\/model-context-protocol-mcp-8-mcp-servers-every-developer-should-try-5hm2"
+  },
+  {
+    "server_name":"Connecting 100+ MCP Servers to Vs Code in 5 Easy Steps",
+    "description":"Connect VS Code to MCP Servers in 5 Steps! \u00b7 1. Prerequires \u00b7 2. Enable MCP in VS Code \u00b7 3. Add Local MCP Servers to VS Code \u00b7 4. Add Hosted MCP ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/dev.to\/composiodev\/connecting-100-mcp-servers-to-vs-code-in-5-easy-steps-1d4k"
+  },
+  {
+    "server_name":"Top 7 MCP Clients for AI Tooling",
+    "description":"MCP servers are lightweight programs or APIs that expose real-world tools like databases, file systems, or web services to AI models. They act ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.kdnuggets.com\/top-7-mcp-clients-for-ai-tooling"
+  },
+  {
+    "server_name":"Building A Simple MCP Server",
+    "description":"In this tutorial, we will build our own MCP server using the Yahoo Finance Python API to fetch real-time stock prices, compare them, and provide historical ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.kdnuggets.com\/building-a-simple-mcp-server"
+  },
+  {
+    "server_name":"Control Your Spotify Playlist with an MCP Server",
+    "description":"This step-by-step guide will teach you how to install the application, set up the Spotify API, clone Spotify MCP server, and seamlessly integrate it into ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.kdnuggets.com\/control-spotify-playlist-with-mcp-server"
+  },
+  {
+    "server_name":"Building AI Agents? A2A vs. MCP Explained Simply",
+    "description":"MCP is an open standard protocol (launched by Anthropic) that lets LLM-based applications access external data and tools in a uniform way. It ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.kdnuggets.com\/building-ai-agents-a2a-vs-mcp-explained-simply"
+  },
+  {
+    "server_name":"10 GitHub Repositories for Mastering Agents and MCPs",
+    "description":"In this article, we will review ten GitHub repositories that can help you learn the basics of AI agents and guide you in building agent-based applications.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.kdnuggets.com\/10-github-repositories-for-mastering-agents-and-mcps"
+  },
+  {
+    "server_name":"\u2694\ufe0f RAG vs MCP vs Agents explained",
+    "description":"The network effect creates automatic functionality sharing as more MCP servers emerge. MCP follows the pattern of protocols repurposed beyond ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/ai-report.kdnuggets.com\/p\/rag-vs-mcp-vs-agents-explained"
+  },
+  {
+    "server_name":"Vibing With Amazon Kiro",
+    "description":"Kiro also offers many features that enhance productivity, such as hooks, steering, autopilot, access to the MCP server, and robust security.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.kdnuggets.com\/vibing-with-amazon-kiro"
+  },
+  {
+    "server_name":"\ud83d\udcca State of AI 2025 Report",
+    "description":"With hundreds of exposed servers and critical flaws already exploited in the wild, MCP's \"universal plugin\" promise comes with hidden dangers.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/ai-report.kdnuggets.com\/p\/state-of-ai-2025-report"
+  },
+  {
+    "server_name":"Here's what you need to look for in a model server to build ...",
+    "description":"In this post, we focus on model servers, software at the heart of machine learning services that operate in real-time or offline.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.kdnuggets.com\/2020\/09\/model-server-build-ml-powered-services.html"
+  },
+  {
+    "server_name":"Building an MCP Server and Client with FastMCP 2.0",
+    "description":"FastMCP 2.0 is an open-source Python framework designed to make building Model Context Protocol (MCP) servers and clients both simple and ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.datacamp.com\/tutorial\/building-mcp-server-client-fastmcp"
+  },
+  {
+    "server_name":"Gradio MCP Server Guide",
+    "description":"A step-by-step tutorial on building, testing, deploying, and integrating a Gradio MCP server with Tavily, Hugging Face Spaces, Cursor AI and Claude Desktop.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.datacamp.com\/tutorial\/gradio-mcp-server-guide"
+  },
+  {
+    "server_name":"Grounded Vibe Coding with Model Context Protocol and ...",
+    "description":"Learn how to boost your coding performance with the help of AI coding assistants and MCP server based knowledge base. Discover different ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.datacamp.com\/code-along\/grounded-vibe-coding-with-model-context-protocol-and-qdrant"
+  },
+  {
+    "server_name":"Creating an AI Agent with LangGraph and Model Context ...",
+    "description":"You'll explore how the Model Context Protocol works, what problems it solves, and how to spin up your own MCP server. Whether you're experimenting with agents ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.datacamp.com\/webinars\/creating-an-ai-agent-with-langgraph-and-model-context-protocol"
+  },
+  {
+    "server_name":"The Model Context Protocol (MCP)",
+    "description":"The Model Context Protocol (MCP). Building Scalable Agentic Systems. Korey Stegared-Pace. Senior AI Cloud Advocate, Microsoft ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/projector.datacamp.com\/?projector_key=course_43387_876655b37f4dc40cf25547c22d3d1367"
+  },
+  {
+    "server_name":"Modularity in Practice",
+    "description":"MCP servers. Page 35. BUILDING SCALABLE AGENTIC SYSTEMS. MCP servers. Page 36. BUILDING SCALABLE AGENTIC SYSTEMS. MCP servers. Page 37. BUILDING SCALABLE ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/projector-video-pdf-converter.datacamp.com\/43387\/chapter2.pdf"
+  },
+  {
+    "server_name":"Cline AI",
+    "description":"Instead of being limited to just file operations and terminal commands, MCP servers let you connect with external tools and services.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.datacamp.com\/tutorial\/cline-ai"
+  },
+  {
+    "server_name":"LLM Tutorials",
+    "description":"A step-by-step tutorial on building, testing, deploying, and integrating a Gradio MCP server with Tavily, Hugging Face Spaces, Cursor AI and Claude Desktop.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.datacamp.com\/tutorial\/category\/large-language-models\/page\/2"
+  },
+  {
+    "server_name":"Trae AI",
+    "description":"When you switch to Builder with MCP, check the status indicators next to each server and make sure they show green before starting your work. If ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.datacamp.com\/tutorial\/trae-ai"
+  },
+  {
+    "server_name":"Claude Sonnet 4",
+    "description":"The MCP connector brings Model Context Protocol support directly to the API. MCPs allow Claude to connect to external services like databases, ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.datacamp.com\/tutorial\/claude-sonnet-4"
+  },
+  {
+    "server_name":"Grounded Vibe Coding with Model Context Protocol and ...",
+    "description":"Understand the basics of the Model Context Protocol. Learn how to boost your coding performance with the help of AI coding assistants and MCP server based ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.datacamp.com\/webinars\/grounded-vibe-coding-with-model-context-protocol-and-qdrant"
+  },
+  {
+    "server_name":"Agent2Agent (A2A)",
+    "description":"A2A is an open, vendor-neutral protocol developed by Google to standardize collaboration among AI agents across different systems.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.datacamp.com\/blog\/a2a-agent2agent"
+  },
+  {
+    "server_name":"AI Articles",
+    "description":"Top 10 MCP Servers & Clients for AI Workflow Automation in 2025 ... Discover the most popular MCP servers and clients to automate your workflow using natural ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.datacamp.com\/blog\/category\/ai\/page\/1"
+  },
+  {
+    "server_name":"Cline vs Cursor",
+    "description":"MCP server support. Both tools offer comprehensive support for MCP servers, whether you use existing ones or build custom servers yourself.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.datacamp.com\/tutorial\/cline-vs-cursor"
+  },
+  {
+    "server_name":"LLM Tutorials",
+    "description":"Building an MCP Server and Client with FastMCP 2.0. Building, Testing, and Integrating the ArXiv Explorer MCP Server. Abid Ali Awan's photo. Abid Ali Awan.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.datacamp.com\/tutorial\/category\/large-language-models"
+  },
+  {
+    "server_name":"AI Tutorials",
+    "description":"A step-by-step tutorial on building, testing, deploying, and integrating a Gradio MCP server with Tavily, Hugging Face Spaces, Cursor AI and Claude Desktop.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.datacamp.com\/tutorial\/category\/ai\/page\/4"
+  },
+  {
+    "server_name":"LLM Tutorials",
+    "description":"Learn how to build an MCP server using Anthropic's Model Context Protocol to connect Claude with GitHub and Notion. Aashi Dutt's photo. Aashi Dutt. March 17 ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.datacamp.com\/tutorial\/category\/large-language-models\/page\/4"
+  },
+  {
+    "server_name":"AI Agents Cheat Sheet",
+    "description":"Learn the basics of AI agents with this beginner-friendly cheat sheet, and explore resources to help you get started.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.datacamp.com\/cheat-sheet\/ai-agents-cheat-sheet"
+  },
+  {
+    "server_name":"What are MCP servers exactly, what market are they ...",
+    "description":"An MCP server is no more or less insecure than any other API which uses access tokens; the risks around that are well understood and have ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/AskProgramming\/comments\/1lp0ncu\/what_are_mcp_servers_exactly_what_market_are_they\/"
+  },
+  {
+    "server_name":"My 5 most useful MCP servers",
+    "description":"I thought to share my top 5 most useful MCP servers that I'm using daily-weekly: Context7: Make my AI-coding agents incredibly smarter.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/mcp\/comments\/1m59pk0\/my_5_most_useful_mcp_servers\/"
+  },
+  {
+    "server_name":"What MCP servers do you really use?",
+    "description":"The best one that I have personally used is context7. I connect Claude Code up with context7 while vibe coding. This MCP server gives the AI ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/AI_Agents\/comments\/1lmzm2k\/what_mcp_servers_do_you_really_use\/"
+  },
+  {
+    "server_name":"Found an awesome repo listing more than 2000+ MCP ...",
+    "description":"MCP server for arXiv.org - Search, analyze, and export academic papers with AI assistants. Features advanced paper discovery, citation analysis, ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/LocalLLaMA\/comments\/1jromm0\/found_an_awesome_repo_listing_more_than_2000_mcp\/"
+  },
+  {
+    "server_name":"Model Context Protocol (MCP)",
+    "description":"Each MCP server adds ~200 tokens to context. 15 servers = 3000 extra tokens per conversation. At $3\/million tokens, that's ~$0.01 per conversation just for tool ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/mcp\/"
+  },
+  {
+    "server_name":"I Found a collection 300+ MCP servers!",
+    "description":"I've been diving into MCP lately and came across this awesome GitHub repo. It's a curated collection of 300+ MCP servers built for AI agents ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/LLMDevs\/comments\/1ju3ty7\/i_found_a_collection_300_mcp_servers\/"
+  },
+  {
+    "server_name":"List of official MCP servers",
+    "description":"Apikeyhub.com has a growing directory list of MCPs and APIs. Might find it useful. Over 100 MCPs. Over 1200 APIs. Hope this helps.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/mcp\/comments\/1l8lst2\/list_of_official_mcp_servers\/"
+  },
+  {
+    "server_name":"I Found a collection 300+ MCP servers!",
+    "description":"I've been diving into MCP lately and came across this awesome GitHub repo. It's a curated collection of 300+ MCP servers built for AI agents.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/mcp\/comments\/1ju3uva\/i_found_a_collection_300_mcp_servers\/"
+  },
+  {
+    "server_name":"Still Confused About How MCP Works? Here's the ...",
+    "description":"While it's cool to add pre-built MCP servers from github, what is mind-blowing is when you can create them on the fly. I gave Cline an API key ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/ClaudeAI\/comments\/1ioxu5r\/still_confused_about_how_mcp_works_heres_the\/"
+  },
+  {
+    "server_name":"List of official mcp servers?",
+    "description":"This catalogue lists official MCP servers (ie developed by companies that offer services - like Atlassian, GitHub, etc.)",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/mcp\/comments\/1kg4ot4\/list_of_official_mcp_servers\/"
+  },
+  {
+    "server_name":"Build a MCP Server in 5 minutes",
+    "description":"The first TypeScript framework specifically for MCP Servers. No more boilerplate hell, no more reinventing the wheel. Just clean, fast server development.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/modelcontextprotocol\/comments\/1haty19\/introducing_mcpframework_build_a_mcp_server_in_5\/"
+  },
+  {
+    "server_name":"Everything I learned building a remote MCP server",
+    "description":"It covers authentication, OAuth authorization, session management, troubleshooting and all the steps you need to pair with the major LLM apps.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/mcp\/comments\/1ksncf3\/how_to_mcp_everything_i_learned_building_a_remote\/"
+  },
+  {
+    "server_name":"Do people really use MCP server\/service?",
+    "description":"Read about why MCP even exists \u2014 generally it provides a common protocol for giving access to a source of data or system to an LLM or agents.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/mcp\/comments\/1mv6w5g\/do_people_really_use_mcp_serverservice\/"
+  },
+  {
+    "server_name":"Which MCP servers have you found the most useful?",
+    "description":"Sequential thinking, GitHub, context 7, and Playwright. You can find curated list from Microsoft at the below link. You can find sequential ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/GithubCopilot\/comments\/1mhy7va\/which_mcp_servers_have_you_found_the_most_useful\/"
+  },
+  {
+    "server_name":"Which MCP servers are you using and are indispensable?",
+    "description":"The Docs MCP Server helps you organize and access 3rd party documentation, i.e. libraries you're using. This enables your AI agent to access the ...",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/mcp\/comments\/1l38mig\/which_mcp_servers_are_you_using_and_are\/"
+  },
+  {
+    "server_name":"A directory of open-source MCP servers",
+    "description":"Claude released a protocol called MCP. It standardizes how developers can develop extensions for AI to interact with.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/ClaudeAI\/comments\/1haabm2\/a_directory_of_opensource_mcp_servers\/"
+  },
+  {
+    "server_name":"Hosting MCP servers",
+    "description":"We are hosting MCP servers at Supermachine. I think it's the only one where you can host your own custom MCPs from custom commands, custom repos, ENVs etc.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/mcp\/comments\/1jkhidv\/hosting_mcp_servers\/"
+  },
+  {
+    "server_name":"A curated list of Model Context Protocol (MCP) servers",
+    "description":"Someone just needs to make a meta-MCP server that allows Claude to create and store functionality so it just automatically grows.",
+    "category":"MCP Server",
+    "repo_link":"https:\/\/www.reddit.com\/r\/ClaudeAI\/comments\/1h2cnf1\/a_curated_list_of_model_context_protocol_mcp\/"
+  }
+]

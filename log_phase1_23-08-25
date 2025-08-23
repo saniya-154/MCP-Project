@@ -1,0 +1,91 @@
+📘 MCP Project Log – Phase 1 (Data Collection & Cleaning)
+Contributor: Saniya
+Timeline: Week 5–6
+Task: MCP Data Collection + Cleaning
+✅ Steps Completed
+
+Initial Setup
+
+Installed dependencies: serpapi, beautifulsoup4, pandas
+
+Generated SerpAPI test scripts to fetch MCP server data
+
+Data Collection
+
+Ran SerpAPI queries:
+
+General: "MCP servers GitHub", "list of MCP servers"
+
+Category-specific: "MCP server database", "MCP server Claude", "MCP server Docker", etc.
+
+Source-specific: "MCP servers site:github.com", "MCP servers site:medium.com", etc.
+
+Saved results into structured JSON/CSV files:
+
+mcp_servers.json (57 entries)
+
+mcp_servers_Category_Specific.json (153 entries)
+
+mcp_servers_Source_Specific.json (80 entries)
+
+Merging
+
+Merged all query results into a single dataset:
+
+mcp_servers_master.json (~290 raw entries)
+
+Deduplicated entries by repo_link
+
+Cleaning
+
+Removed irrelevant entries (blogs, “Top 10” lists, Reddit, YouTube links)
+
+Normalized server_name (trimmed suffixes like : ...)
+
+Added fallback descriptions where missing
+
+Applied rule-based categorization:
+
+Database, LLM, DevOps, Productivity, General MCP
+
+Created text_for_embedding = server_name + description
+
+Final Deliverable
+
+Saved cleaned dataset:
+
+mcp_servers_cleaned.json (~200–220 valid entries)
+
+mcp_servers_cleaned.csv
+
+Dataset now ready for Phase-2 (Vector DB + Embedding)
+
+📂 Files Generated
+
+mcp_servers.json
+
+mcp_servers_Category_Specific.json
+
+mcp_servers_Source_Specific.json
+
+mcp_servers_master.json
+
+mcp_servers_cleaned.json ✅ (final deliverable)
+
+mcp_servers_cleaned.csv ✅
+
+🚀 Next Handoff (Phase-2 – Arman)
+
+Use mcp_servers_cleaned.json
+
+Generate embeddings with HuggingFace (sentence-transformers)
+
+Store vectors in FAISS/Qdrant with metadata (repo_link, category)
+
+📝 Notes
+
+Current dataset: ~200 valid MCP server entries
+
+Covers multiple categories (LLM, Database, DevOps, Productivity)
+
+Fallback to SerpAPI live scraping if vector DB has no relevant results
