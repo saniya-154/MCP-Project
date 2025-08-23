@@ -1,5 +1,5 @@
 week-01:
 # Week 5 Log (Saniya)
-✅ Done: Set up web scraper with BeautifulSoup  
-❌ Issues:   
-🎯 Next: 
+✅ Done: Set up web scraper with BeautifulSoup
+🎯 Next: Run a quick sanity check (open a few random entries → confirm they’re valid MCP repos).
+Document what you did (for team log): “Phase-1: Collected ~300 raw entries, merged, filtered to ~200 valid MCP repos, structured into cleaned dataset.”
